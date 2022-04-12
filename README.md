@@ -1,1 +1,1 @@
-kochnev_r_u
+Computer Vision Course at NUST MISIS
