@@ -1,1 +1,0 @@
-kochnev_r_u
